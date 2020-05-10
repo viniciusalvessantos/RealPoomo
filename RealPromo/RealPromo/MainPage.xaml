@@ -4,13 +4,42 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
+             BackgroundColor="#fe602b"
              x:Class="RealPromo.MainPage">
 
-    <StackLayout>
+    <StackLayout Padding="15">
         <!-- Place new controls here -->
-        <Label Text="Vinicius Alves Santos" 
-           HorizontalOptions="Center"
+        <Frame BackgroundColor="#fe602b" BorderColor="White">
+        <StackLayout Orientation="Horizontal">
+            <StackLayout  Spacing="0" HorizontalOptions="StartAndExpand">
+                <Label Text="CARREFOUR"
+           TextColor="White"
+           FontAttributes="Bold"
+           FontSize="Large"
            VerticalOptions="CenterAndExpand" />
+
+                <Label Text="TV LG - 40 R$ 999,99"
+           TextColor="White"
+           FontSize="Large"
+           VerticalOptions="CenterAndExpand" />
+
+                <Label Text="Somente 20 unidades"
+           TextColor="White"
+           VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+            <StackLayout BackgroundColor="White" Padding="10">
+                <Label Text="Pegar"
+                       TextColor="Black"
+                       FontAttributes="Bold"
+                       FontSize="Large"
+                        VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+        </StackLayout>
+        </Frame>
+        <Label Text="Todas promoçoes tem prazo de 1 hora ou unidades."
+           TextColor="White"
+           HorizontalOptions="Center"
+           VerticalOptions="EndAndExpand" />
     </StackLayout>
 
 </ContentPage>
