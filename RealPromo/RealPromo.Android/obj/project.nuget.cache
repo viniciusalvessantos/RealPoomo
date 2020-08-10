@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ASF2bK8Q//69tHcbfq7t98U9q/V+z8yS2Zzvyh33cj/5hNA673qFig+0Q4ofGOgwbPPkIeUCQmYStOdYIxPl6Q==",
+  "dgSpecHash": "8+m9wgajgxWeKUpgptIFVUqIzwg5BWiot+wLc/zGceJ4yc4l3ibND4efi67n3Z5e16LIILBWbc5kEGFnhBEDPg==",
   "success": true,
   "projectFilePath": "D:\\Desenvolvimento\\Projetos Pessoal\\.NET Core\\RealPoomo\\RealPromo\\RealPromo.Android\\RealPromo.Android.csproj",
   "expectedPackageFiles": [
@@ -43,7 +43,7 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\vinic\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }

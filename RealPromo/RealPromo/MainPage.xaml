@@ -9,9 +9,9 @@
 
     <StackLayout Padding="15">
         <!-- Place new controls here -->
-        <Frame BackgroundColor="#fe602b" BorderColor="White">
+        <Frame BackgroundColor="#fe602b" BorderColor="White" Padding="0">
         <StackLayout Orientation="Horizontal">
-            <StackLayout  Spacing="0" HorizontalOptions="StartAndExpand">
+            <StackLayout  Spacing="0" HorizontalOptions="StartAndExpand" Padding="10">
                 <Label Text="CARREFOUR"
            TextColor="White"
            FontAttributes="Bold"

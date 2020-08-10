@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fxrQ88W26QtOKHmMjpNH/coxw1UutrIXQbPG9Bt40yKGoHjDC4TrjjKOZDKRsota5Y/LVEAvHiYCuxQq3mIQSA==",
+  "dgSpecHash": "/99812CAbHvnoj3H5FKXExLG9fzcfHdhaCBFdO6IjOVuewuEa9RK6Mlcd/Mx/JUwQ3YeljYZuf6FEAwElnHNAA==",
   "success": true,
   "projectFilePath": "D:\\Desenvolvimento\\Projetos Pessoal\\.NET Core\\RealPoomo\\RealPromo\\RealPromo.iOS\\RealPromo.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinic\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\vinic\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }
